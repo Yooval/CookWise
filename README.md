@@ -5,7 +5,7 @@ CookWise is an API web application that allows users to create and manage their 
 
 The application is designed with security, scalability, and ease of use in mind, and is deployed on Amazon Web Services (AWS) for production.
 
-#### Link #### - http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/
+#### Link - http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/
 
 ## Installation
 
