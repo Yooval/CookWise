@@ -28,7 +28,7 @@ docker-compose run --rm app sh -c "python manage.py test"
 # Verify the Following:
 Make sure the template project branch has the following features:
 
-1. Flake8 is installed.
+1. Flake8 is used.
 2. Basic User creation is implemented.
 3. Token authentication is set up.
 4. Docker is properly configured.
