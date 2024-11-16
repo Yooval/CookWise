@@ -1,4 +1,4 @@
-# CookWise - A Professional REST API with Python, Django REST Framework, and Docker using Test-Driven Development (TDD)
+# CookWise - A  REST API with Python, Django REST Framework, and Docker using Test-Driven Development (TDD)
 
 ## Overview
 CookWise is an API web application that enables users to create and manage their own recipes and ingredients. Each user can register, log in, and build a personalized collection of recipes and ingredients. The project is built using the Django REST Framework (DRF) to provide a robust and scalable API, following best practices with Test-Driven Development (TDD) to ensure reliability and maintainability. Designed with security, scalability, and ease of use in mind, CookWise is deployed on Amazon Web Services (AWS) to deliver a production-ready, secure, and scalable solution.
