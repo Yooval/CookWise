@@ -5,7 +5,7 @@ CookWise is an API web application that enables users to create and manage their
 
 
 
-#### Link - http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/
+#### Link - [here](http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/)
 
 ## Installation
 
