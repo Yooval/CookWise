@@ -1,14 +1,18 @@
 
 ## Overview
 
-**CookWise** is an API web application that lets users create and manage their own recipes and ingredients. Users can register, log in,upload images, and build a personalized collection. The application is built with Django REST Framework (DRF). Using unit tests, Test-Driven Development (TDD) and docker to ensure it is reliable and easy to maintain.The application also deployed on Amazon Web Services (AWS).
-
-## Test Methods:
-- Test-Driven Development: Create tests first, then the code, helping detect errors early in development.
-- Unit tests: Used to test individual components of code to ensure they work correctly.
+**CookWise** is a web application that allows users to create and manage their own recipes. Users can register, log in, upload images, and build a personalized collection of recipes. It provides a secure and organized platform for users to store and manage their own culinary quest.
 
 
-#### Link - [here](http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/)
+## Tech & Tools:  
+- **Django REST Framework (DRF):** Used to build secure and reliable APIs with built-in features for authentication and serialization.  
+- **Test-Driven Development & Unit Tests:** Ensures the application works as expected by writing tests before code implementation and validating individual components.  
+- **Docker:** Creates a consistent and isolated environment for development, testing, and deployment.  
+- **AWS:** Provides a reliable platform for deploying the application with high availability and performance.  
+
+
+#### Give it a try [here](http://ec2-3-83-146-24.compute-1.amazonaws.com/api/docs/) !
+
 
 ## Installation
 
