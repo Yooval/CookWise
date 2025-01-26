@@ -7,9 +7,9 @@
 ## Tech & Tools:  
 - **Django REST Framework (DRF):** Used to create secure and reliable APIs. It makes handling things like authentication and data serialization much easier.
 - **Tests:**
-   **Unit Tests:** Check that individual parts of the app, like registering users or creating recipes, work correctly on their own.
-   **Integration Tests:** Check that different parts of the app, like logging in and uploading images, work well together.
-   **Test-Driven Development:** Writing tests before writing code to make sure everything worked as expected and to catch bugs early.
+     **Unit Tests:** Check that individual parts of the app, like registering users or creating recipes, work correctly on their own.
+     **Integration Tests:** Check that different parts of the app, like logging in and uploading images, work well together.
+     **Test-Driven Development:** Writing tests before writing code to make sure everything worked as expected and to catch bugs early.
 - **Docker:** Used to create a consistent environment for building, testing, and running the app, so it works the same everywhere.
 - **AWS:** The app is hosted on AWS, which helps keep it reliable, fast, and accessible to users at any time.
   
