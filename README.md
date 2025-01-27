@@ -35,7 +35,7 @@ docker-compose run --rm app sh -c "python manage.py startapp core"
 docker-compose run --rm app sh -c "python manage.py test && flake8"
 ```
 
-# Running unit tests
+# Running tests
 
 ```bash
 docker-compose run --rm app sh -c "python manage.py test"
